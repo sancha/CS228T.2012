@@ -1,10 +1,10 @@
 # Programming assignment for [CS228T Spring 2012](https://sites.google.com/site/cs228tspring2012/)
 ## Probabilistic graphical models - Advanced methods
 
-This repo contains the programming assignments from Spring 2012 offering of CS228T at Stanford. All the assignments were developed specifically for Spring 2012 version of the course, by Kevin Murphy, Daniel Selsam, and Sanjeev Satheesh, to assist people who want to try the programming assignments from this class on their own. The code in this repo does not contain the solution to the assignments. Only a shell of the assignment is provided, along with some test cases, so that when you fill in the required code, you can test it yourself for correctness. 
+This repo contains the programming assignments from Spring 2012 offering of CS228T at Stanford. All the assignments were developed specifically for Spring 2012 version of the course, by Kevin Murphy, Daniel Selsam, and Sanjeev Satheesh.
+The code in this repo does not contain the solutions to the assignments. Instead, test scripts are provided for each assignment, so that once you fill in the required code, you can test it yourself for correctness. Note that passing the tests does not always guarantee that your code is correct.
 
-
- **This [file](https://docs.google.com/open?id=0B7W6AEFt2Pa6U0VVS2t3VXN5cEE) contains instructions for all of the programming assignments.**
+**This [file](https://docs.google.com/open?id=0B7W6AEFt2Pa6U0VVS2t3VXN5cEE) contains instructions for all of the programming assignments.** Most of the details are relegated to the comments and the provided code itself.
 
 Here are the list of topics covered in these assignments (the repo is organized according to the technique):
 
